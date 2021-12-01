@@ -1,0 +1,15 @@
+*.o
+*.x86
+*.i386
+*.i486
+*.i586
+*.i686
+*.x86_64
+*.armv7l
+*.armv8l
+*.arm64
+*.aarch64
+*.ppc
+*.ppc64
+*.mips3
+*a.out
