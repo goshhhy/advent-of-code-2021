@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int main( int argc, char **argv ) {
-    FILE* input = fopen( "input", "r" );
+    FILE* input = fopen( argv[1], "r" );
     int previous, current, in;
     int bigger = 0;
 
